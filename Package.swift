@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/apple/swift-argument-parser", from: "0.0.1"),
-        .package(url: "https://github.com/danielctull/Resourceful", from: "1.0.0"),
+        .package(url: "https://github.com/danielctull/Resourceful", .branch("master")),
         .package(url: "https://github.com/MaxDesiatov/XMLCoder.git", from: "0.10.0"),
     ],
     targets: [

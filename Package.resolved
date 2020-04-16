@@ -5,9 +5,9 @@
         "package": "Resourceful",
         "repositoryURL": "https://github.com/danielctull/Resourceful",
         "state": {
-          "branch": null,
-          "revision": "2d1aeeeac539c9133bb326fd29f57ce8e592f508",
-          "version": "1.0.0"
+          "branch": "master",
+          "revision": "2a7bfa929511932f6f91f6099783fbf93b469535",
+          "version": null
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/apple/swift-argument-parser",
         "state": {
           "branch": null,
-          "revision": "8d31a0905c346a45c87773ad50862b5b3df8dff6",
-          "version": "0.0.4"
+          "revision": "9f04d1ff1afbccd02279338a2c91e5f27c45e93a",
+          "version": "0.0.5"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/MaxDesiatov/XMLCoder.git",
         "state": {
           "branch": null,
-          "revision": "eae62665fcf012fb5a4dc3a8d69af15bc21a45ba",
-          "version": "0.10.0"
+          "revision": "590feacb7c486769bf0c0a654bd6bcd0e9c34fb9",
+          "version": "0.11.0"
         }
       }
     ]
